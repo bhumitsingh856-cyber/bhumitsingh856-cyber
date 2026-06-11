@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>👋 Hi, I'm Bhumit Singh</h1>
-  <p><code>[const] full_stack_developer = true;</code></p>
+  <h1 size="60px">👋 Hi, I'm Bhumit Singh</h1>
+  <p><code>let full_stack_developer : boolean = true;</code></p>
   <p>Building full-stack web applications , AI Agent, and exploring Machine Learning.</p>
 </div>
 
@@ -14,7 +14,7 @@
 
 ### 💻 Overview `[about.md]`
 
-Pursuing a **B.Tech in Computer Science Engineering (AI-ML)** . I focus on building clean user interfaces and functional backend APIs.
+Pursuing a **B.Tech in Computer Science Engineering (AI-ML)** . I focus on building clean user interfaces , AI Agents .
 
 * 🛠️ **Current Focus:** Working on web projects and agentic AI concepts using **LangGraph (Python)** and further **Machine Learning**.
 * 📍 **Location:** Indore, India
@@ -51,6 +51,21 @@ Pursuing a **B.Tech in Computer Science Engineering (AI-ML)** . I focus on build
 ---
 
 ### 🚀 Featured Projects `[projects.rs]`
+
+<details>
+<summary><b>🔹 Agent Atlas</b> (Click to expand details)</summary>
+<br>
+Agent Atlas is a research assistant that uses a LangGraph workflow to break down a topic, conduct research through multiple stages, generate a structured report with citations , imbedded images , mermaid diagrams , and then allow users to chat with that report using RAG.
+
+
+* Multi-agent research workflow
+* Parallel researcher execution
+* RAG-powered chat over generated reports
+* Research memory & persistence
+* Thread-based conversations
+* Source citations
+
+</details>
 
 <details>
 <summary><b>🔹 Orion Studio AI</b> (Click to expand details)</summary>
