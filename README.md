@@ -90,8 +90,6 @@ const bhumit: Developer = {
 ![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=flat-square&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-%232C4C3C.svg?style=flat-square&logo=graphql&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-%2300B0B9.svg?style=flat-square&logo=pinecone&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic-%23CC785C.svg?style=flat-square&logo=anthropic&logoColor=white)
 
 </td>
 </tr>
