@@ -89,7 +89,11 @@ const bhumit: Developer = {
 
 ![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=flat-square&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-%232C4C3C.svg?style=flat-square&logo=graphql&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-%231C3C3C.svg?style=flat-square&logo=chainlink&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-%2300B0B9.svg?style=flat-square&logo=pinecone&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%2376B7B2.svg?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
