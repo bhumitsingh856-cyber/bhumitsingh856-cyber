@@ -1,14 +1,11 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Bhumit%20Singh&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Agent%20Builder%20%E2%80%A2%20B.Tech%20CSE%20(AI-ML)&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:059669,100:022c22e&height=220&section=header&text=Bhumit%20Singh&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Agent%20Builder%20%E2%80%A2%20B.Tech%20CSE%20(AI-ML)&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+multi-agent+systems+with+LangGraph;RAG+pipelines+%2B+LLM+orchestration;Full-stack+from+data+layer+to+UI;Available+for+Freelance+%C2%B7+Internships+%C2%B7+Collabs" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- All social links in ONE place -->
 <p>
   <a href="https://porfolio-v2-client.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-porfolio--v2--client.vercel.app-7c3aed?style=for-the-badge&labelColor=0d1117" />
@@ -36,13 +33,13 @@
 
 ```ts
 const bhumit: Developer = {
-  degree    : "B.Tech — CSE (AI & ML) @ IPS Academy, Indore",
-  location  : "Indore, India 📍",
-  focus     : ["Multi-Agent Systems", "RAG Pipelines", "Full-Stack Web Apps"],
-  current   : "Building LLM applications & agentic workflows end-to-end",
-  available : ["Freelance", "Internships", "Collaborative builds"],
-  portfolio : "https://porfolio-v2-client.vercel.app/",
-  motto     : "Ship clean interfaces. Build intelligent agents. Keep learning.",
+  degree: "B.Tech — CSE (AI & ML) @ IPS Academy, Indore",
+  location: "Indore, India 📍",
+  focus: ["Multi-Agent Systems", "RAG Pipelines", "Full-Stack Web Apps"],
+  current: "Building LLM applications & agentic workflows end-to-end",
+  available: ["Freelance", "Internships", "Collaborative builds"],
+  future:["Machine Learning","System Design","Transformers"]
+  motto: "Ship clean interfaces. Build intelligent agents. Keep learning.",
 };
 ```
 
@@ -101,7 +98,7 @@ const bhumit: Developer = {
 
 ---
 
-## 🚀 Selected Work
+# 🚀 Selected Work
 
 > Full case studies → **[porfolio-v2-client.vercel.app/work](https://porfolio-v2-client.vercel.app/work)**
 
@@ -113,14 +110,14 @@ const bhumit: Developer = {
 
 **Stack:** `Next.js` `LangGraph` `FastAPI` `Pinecone`
 
-| Feature | Detail |
-|---|---|
-| 🧠 Orchestration | Parallel researcher agents with LangGraph |
-| 📄 Output | Structured reports with citations, images & Mermaid diagrams |
-| 💬 Chat | RAG interface over the generated report |
-| 🗂️ Memory | Thread-based conversation persistence |
+| Feature          | Detail                                                       |
+| ---------------- | ------------------------------------------------------------ |
+| 🧠 Orchestration | Parallel researcher agents with LangGraph                    |
+| 📄 Output        | Structured reports with citations, images & Mermaid diagrams |
+| 💬 Chat          | RAG interface over the generated report                      |
+| 🗂️ Memory        | Thread-based conversation persistence                        |
 
-[View case study →](https://porfolio-v2-client.vercel.app/work/agent-atlas)
+[View Live →](https://agent-atlas-one.vercel.app/)
 
 </details>
 
@@ -134,13 +131,13 @@ const bhumit: Developer = {
 
 **Stack:** `Next.js` `LangChain JS` `Pinecone` `MongoDB`
 
-| Feature | Detail |
-|---|---|
-| 📁 Documents | Upload files and ask questions over their content |
-| 🤖 Models | Multiple AI model integrations behind one clean UI |
-| 🖼️ Vision | Image generation and real-time visual analysis |
+| Feature      | Detail                                             |
+| ------------ | -------------------------------------------------- |
+| 📁 Documents | Upload files and ask questions over their content  |
+| 🤖 Models    | Multiple AI model integrations behind one clean UI |
+| 🖼️ Vision    | Image generation and real-time visual analysis     |
 
-[View case study →](https://porfolio-v2-client.vercel.app/work/orion-studio-ai)
+[View Live →](https://orion-studio-sigma.vercel.app/)
 
 </details>
 
@@ -154,13 +151,13 @@ const bhumit: Developer = {
 
 **Stack:** `Next.js` `LangChain` `Fireworks AI · Deepseek` `Groq · Kimi 2`
 
-| Feature | Detail |
-|---|---|
-| 🖊️ Editor | Built-in code editor with live browser preview |
+| Feature     | Detail                                                           |
+| ----------- | ---------------------------------------------------------------- |
+| 🖊️ Editor   | Built-in code editor with live browser preview                   |
 | 🔧 Self-fix | Auto error-correction — generated code runs without manual edits |
-| 📦 Export | One-click download and project sharing |
+| 📦 Export   | One-click download and project sharing                           |
 
-[View case study →](https://porfolio-v2-client.vercel.app/work/gen-ui)
+[View Live →](https://gen-ui-seven-black.vercel.app/)
 
 </details>
 
@@ -174,35 +171,43 @@ const bhumit: Developer = {
 
 **Stack:** `MongoDB` `Express` `React` `Node.js`
 
-| Feature | Detail |
-|---|---|
-| ⚡ Real-time | Live messaging & online status via WebSockets |
-| 🎨 AI tools | Inline text and image generation inside the feed |
-| 📱 Responsive | Seamless across all device sizes |
+| Feature       | Detail                                           |
+| ------------- | ------------------------------------------------ |
+| ⚡ Real-time  | Live messaging & online status via WebSockets    |
+| 🎨 AI tools   | Inline text and image generation inside the feed |
+| 📱 Responsive | Seamless across all device sizes                 |
 
-[View case study →](https://porfolio-v2-client.vercel.app/work/orbit)
+[View Live →](https://orbit-seven-pink.vercel.app/)
 
 </details>
 
 ---
-
+<br/><br/>
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/bhumitsingh856-cyber?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=7c3aed" />
+  <!-- <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbhumitsingh856-cyber&query=%24.public_repos&label=📦%20Repos&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=7c3aed" /> -->
+  <img src="https://img.shields.io/github/followers/bhumitsingh856-cyber?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=7c3aed" />
+</p>
+
+<!-- <p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbhumitsingh856-cyber%2Frepos&query=%24%5B%3A1%5D.language&label=🔝%20Top%20Language&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=7c3aed" />
+</p> -->
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhumitsingh856-cyber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumitsingh856-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=7" />
 
-<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bhumitsingh856-cyber&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+<!-- Streak with matching colors -->
+<img src="https://streak-stats.demolab.com?user=bhumitsingh856-cyber&theme=radical&hide_border=true&background=0d1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&sideLabels=e2e8f0&currStreakNum=FF6B6B&sideNums=7c3aed&dates=94a3b8" alt="GitHub Streak" />
+<br/><br/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhumitsingh856-cyber&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%"/>
+<!-- Activity graph with matching colors -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhumitsingh856-cyber&bg_color=0d1117&color=059669&line=dc2626&point=e2e8f0&area=true&hide_border=true&area_color=7c3aed20" width="95%" alt="Activity Graph" />
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,50:dc2626,100:450a0a&height=120&section=footer" width="100%"/>
