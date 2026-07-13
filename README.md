@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:059669,100:000000&height=2&section=divider&animation=twinkling" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:14532d,100:000000&height=220&section=header&text=Bhumit%20Singh&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Agent%20Builder%20%E2%80%A2%20B.Tech%20CSE%20(AI-ML)&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:14532d,100:000000&height=220&section=header&text=Bhumit%20Singh&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20Agents%20%C2%B7%20AI-ML&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+ 
 <a href="https://git.io/typing-svg">
  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=650&lines=Building+multi-agent+systems+with+LangGraph;RAG+pipelines+%2B+LLM+orchestration;Full-stack+from+data+layer+to+UI;Available+for+Freelance+%C2%B7+Internships+%C2%B7+Collabs" alt="Typing SVG" />
 </a>
@@ -33,7 +34,7 @@
  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,21&height=2&section=divider&animation=twinkling" width="100%"/>
 </p>
 
-## `whoami`
+# `whoami`
 
 ```ts
 const bhumit: Developer = {
@@ -83,7 +84,7 @@ const bhumit: Developer = {
  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=13,15,19&height=2&section=divider&animation=twinkling" width="100%"/>
 </p>
 
-## 🛠️ Tech Arsenal
+# 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -214,7 +215,7 @@ const bhumit: Developer = {
 </p>
 <br/><br/>
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/bhumitsingh856-cyber?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=7c3aed" />
