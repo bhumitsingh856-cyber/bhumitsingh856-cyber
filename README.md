@@ -1,3 +1,4 @@
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:059669,100:000000&height=2&section=divider&animation=twinkling" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:14532d,100:000000&height=220&section=header&text=Bhumit%20Singh&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20Agents%20%C2%B7%20AI-ML&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
@@ -24,9 +25,7 @@
     <img src="https://img.shields.io/badge/Gmail-bhumits893%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=bhumitsingh856-cyber&label=Profile+Views&color=7c3aed&style=flat-square" />
-
+<!-- <img src="https://komarev.com/ghpvc/?username=bhumitsingh856-cyber&label=Profile+Views&color=7c3aed&style=flat-square" /> -->
 </div>
 
 
@@ -235,24 +234,24 @@ const bhumit: Developer = {
 </p>
 <br/><br/>
 
-# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/bhumitsingh856-cyber?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=7c3aed" />
-  <!-- <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbhumitsingh856-cyber&query=%24.public_repos&label=📦%20Repos&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=7c3aed" /> -->
-  <img src="https://img.shields.io/github/followers/bhumitsingh856-cyber?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=7c3aed" />
-</p>
-
-<!-- <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbhumitsingh856-cyber%2Frepos&query=%24%5B%3A1%5D.language&label=🔝%20Top%20Language&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=7c3aed" />
-</p> -->
+<!--
+# 🧩 LeetCode
 
 <div align="center">
 
+<img src="https://leetcard.jacoblin.cool/bhumit19?theme=dark&font=JetBrains%20Mono&ext=contest"/>
+<br/>
+<a href="https://leetcode.com/bhumit19/">
+<img src="https://img.shields.io/badge/Visit%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+</div>
+-->
+# 📊 GitHub Stats
 
-
+<div align="center">
 <!-- Streak with matching colors -->
-<img src="https://streak-stats.demolab.com?user=bhumitsingh856-cyber&theme=radical&hide_border=true&background=0d1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&sideLabels=e2e8f0&currStreakNum=FF6B6B&sideNums=7c3aed&dates=94a3b8" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=bhumitsingh856-cyber&theme=dark&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=ffffff&currStreakNum=ffffff&sideNums=22c55e&dates=666666" />
 <br/><br/>
 
 <!-- Activity graph with matching colors -->
