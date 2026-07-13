@@ -135,7 +135,7 @@ const bhumit: Developer = {
 
 > A research assistant powered by a **LangGraph** multi-agent workflow that decomposes any topic into parallel research streams, synthesizes findings into a structured, citable report — then lets you have a full RAG-powered conversation with it.
 
-**Stack:** `Next.js` `LangGraph` `FastAPI` `Pinecone`
+**Stack:** `Next.js` `LangGraph` `FastAPI` `Pinecone` `PGSQL`
 
 | Feature          | Detail                                                       |
 | ---------------- | ------------------------------------------------------------ |
@@ -145,6 +145,27 @@ const bhumit: Developer = {
 | 🗂️ Memory        | Thread-based conversation persistence                        |
 
 [View Live →](https://agent-atlas-one.vercel.app/)
+
+</details>
+
+---
+
+<details>
+<summary><b>🏫 Campus Assistant &nbsp;·&nbsp;AI assistant for campus services</b> &nbsp;<code>July 2026</code></summary>
+<br>
+
+>Campus Bot is a multi-channel AI agent that provides students with instant access to academic information, attendance records, and general campus support. The bot uses agentic AI workflows with LLM tool-calling capabilities, state management via PostgreSQL checkpointer, and vector-based retrieval for non changing data.
+
+**Stack:** `Next.js` `LangGraph` `FastAPI` `Pinecone` `PGSQL`
+
+| Feature          | Detail                                                       |
+| ---------------- | -------------------------------------------------------------|
+| 🧠 Orchestration |  Langchain , LangGraph                                       |
+| 📄 Web Interaction |  Tavily , FireCrawl                                        |
+| 💬 Chat          | Web , Telegram , WhatsApp (Twilio)                           |
+| 🗂️ Memory        | Langgraph memory store , Checkpointer                        |
+
+[View Live →](https://campus-client-1bmw.vercel.app/)
 
 </details>
 
@@ -167,7 +188,6 @@ const bhumit: Developer = {
 [View Live →](https://orion-studio-sigma.vercel.app/)
 
 </details>
-
 
 ---
 <details>
