@@ -1,7 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:059669,100:022c22e&height=220&section=header&text=Bhumit%20Singh&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Agent%20Builder%20%E2%80%A2%20B.Tech%20CSE%20(AI-ML)&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:059669,100:000000&height=2&section=divider&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:14532d,100:000000&height=220&section=header&text=Bhumit%20Singh&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Agent%20Builder%20%E2%80%A2%20B.Tech%20CSE%20(AI-ML)&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+multi-agent+systems+with+LangGraph;RAG+pipelines+%2B+LLM+orchestration;Full-stack+from+data+layer+to+UI;Available+for+Freelance+%C2%B7+Internships+%C2%B7+Collabs" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=650&lines=Building+multi-agent+systems+with+LangGraph;RAG+pipelines+%2B+LLM+orchestration;Full-stack+from+data+layer+to+UI;Available+for+Freelance+%C2%B7+Internships+%C2%B7+Collabs" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,7 +28,10 @@
 
 </div>
 
----
+
+<p align="center">
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,21&height=2&section=divider&animation=twinkling" width="100%"/>
+</p>
 
 ## `whoami`
 
@@ -41,62 +45,84 @@ const bhumit: Developer = {
   future:["Machine Learning","System Design","Transformers"]
   motto: "Ship clean interfaces. Build intelligent agents. Keep learning.",
 };
+
 ```
 
----
+<div align="center">
 
-## 🛠️ Tech Stack
+```ts
+  ╔══════════════════════════════════════════════════════════════════════════════════════════════════════╗
+  ║                                    ⌨️  BHUMIT SINGH — TYPING...                                      ║
+  ╠══════╦══════╦══════╦══════╦══════╦══════╦══════╦══════╦══════╦══════╦══════╦══════╦══════╦══════╦══  ╣
+  ║ Esc  ║  F1  ║  F2  ║  F3  ║  F4  ║  F5  ║  F6  ║  F7  ║  F8  ║  F9  ║ F10  ║ F11  ║ F12  ║ PSc  ║Del ║
+  ╠══════╩══╦═══╩══╦═══╩══╦═══╩══╦═══╩══╦═══╩══╦═══╩══╦═══╩══╦═══╩══╦═══╩══╦═══╩══╦═══╩══╦═══╩══╦═══╩══  ╣
+  ║    `    ║  1  ║  2  ║  3  ║  4  ║  5  ║  6  ║  7  ║  8  ║  9  ║  0  ║  -  ║  =  ║ Back ║ Ins  ║Hme║  ║
+  ╠═════════╩══╦═══╩══╦═══╩══╦═══╩══╦═══╩══╦═══╩══╦═══╩══╦═══╩══╦═══╩══╦═══╩══╦═══╩══╦═══╩══╦═══╩══╦═════╝
+  ║    Tab     ║  Q  ║  W  ║  E  ║  R  ║  T  ║  Y  ║▓▓▓▓▓║▓▓▓▓▓║  O  ║  P  ║  [  ║  ]  ║  \  ║ End ║PgDn ║
+  ║            ║     ║     ║     ║     ║     ║     ║▓ U ▓║▓ I ▓║     ║     ║     ║     ║     ║     ║     ║
+  ╠════════════╩══╦══╩══╦══╩═╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩═════╩═══╩═══════╝║
+  ║   Caps Lock  ║  A  ║  S  ║▓▓▓▓▓║  F  ║  G  ║  H  ║  J  ║  K  ║▓▓▓▓▓║  ;  ║  '  ║      Enter          ║
+  ║              ║     ║     ║▓ D ▓║     ║     ║     ║     ║     ║▓ L ▓║     ║     ║                     ║
+  ╠══════════════╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩══╦══╩═════════════════════╣
+  ║      Shift      ║  Z  ║  X  ║  C  ║  V  ║▓▓▓▓▓║  N  ║  M  ║  ,  ║  .  ║  /  ║      Shift             ║
+  ║                 ║     ║     ║     ║     ║▓ B ▓║     ║     ║     ║     ║     ║                        ║
+  ╠═════════════════╩═════╩═════╩═════╩═════╩═════╩═════╩═════╩═════╩═════╩═════╩════════════════════════╣
+   ║  Ctrl   ║   Win   ║   Alt   ║██████████████████████ SPACE  █████████████████████║ Alt ║  Fn  ║  Ctl  ║ 
+  ╚═════════╩═════════╩═════════╩══════════════════════════════════════════════════════════════╩═════════╝
+  
+  ┌──────────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │                                                                                                      │
+  │   > Design. Develop. Deploy. BUILD... █                                                              |
+  │                                                                                                      │
+  └──────────────────────────────────────────────────────────────────────────────────────────────────────┘
 
-<table>
-<tr>
-<td valign="top" width="25%">
+```
+</div>
+
+<p align="center">
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=13,15,19&height=2&section=divider&animation=twinkling" width="100%"/>
+</p>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JS-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TS-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-
-</td>
-<td valign="top" width="25%">
+|  |  |  |  |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"/><br> | <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48"/><br> | <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/><br> | <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48"/><br> |
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-
-</td>
-<td valign="top" width="25%">
+| React | Next.js | Tailwind CSS | Shadcn UI |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48"/><br> | <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48"/><br>| <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48"/><br> | <img src="https://avatars.githubusercontent.com/u/139895814?s=48&v=4" width="48"/><br>  |
 
 **Backend & DBs**
 
-![Node.js](https://img.shields.io/badge/Node-%236DA55F.svg?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+| Node.js | Express | FastAPI | MongoDB | PostgreSQL | Docker |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48"/><br> | <img src="https://skillicons.dev/icons?i=express&theme=dark" width="48"/><br> | <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48"/><br> | <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48"/><br> | <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48"/><br> | <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48"/><br> |
 
-</td>
-<td valign="top" width="25%">
+**🤖 AI / LLMs**
 
-**AI / ML**
+| LangChain | LangGraph | LangSmith | Pinecone |
+|:---:|:---:|:---:|:---:|
+| <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/langchain-color.png" width="48"/><br> | <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/langgraph-color.png" width="48"/><br> | <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/langsmith-color.png" width="48"/><br> | <img src="https://avatars.githubusercontent.com/u/54333248?s=48&v=4" width="48"/><br> |
 
-![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=flat-square&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-%232C4C3C.svg?style=flat-square&logo=graphql&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-%231C3C3C.svg?style=flat-square&logo=chainlink&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-%2300B0B9.svg?style=flat-square&logo=pinecone&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-%2376B7B2.svg?style=flat-square&logo=python&logoColor=white)
+**📊 ML / Data**
 
-</td>
-</tr>
-</table>
+| NumPy | Pandas | Seaborn |
+|:---:|:---:|:---:|
+| <img src="https://numpy.org/images/logo.svg" width="48"/><br> | <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="48"/><br> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48"/><br> |
 
----
+</div>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=divider&animation=twinkling" width="100%"/>
+</p>
 
 # 🚀 Selected Work
 
@@ -141,8 +167,8 @@ const bhumit: Developer = {
 
 </details>
 
----
 
+---
 <details>
 <summary><b>⚡ GenUI &nbsp;·&nbsp; Prompt → Working React App</b> &nbsp;<code>April 2026</code></summary>
 <br>
@@ -160,6 +186,7 @@ const bhumit: Developer = {
 [View Live →](https://gen-ui-seven-black.vercel.app/)
 
 </details>
+
 
 ---
 
@@ -181,9 +208,13 @@ const bhumit: Developer = {
 
 </details>
 
----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=divider&animation=twinkling" width="100%"/>
+</p>
 <br/><br/>
-## 📊 GitHub Stats
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/bhumitsingh856-cyber?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=7c3aed" />
@@ -206,8 +237,19 @@ const bhumit: Developer = {
 <!-- Activity graph with matching colors -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhumitsingh856-cyber&bg_color=0d1117&color=059669&line=dc2626&point=e2e8f0&area=true&hide_border=true&area_color=7c3aed20" width="95%" alt="Activity Graph" />
 
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhumitsingh856-cyber/bhumitsingh856-cyber/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhumitsingh856-cyber/bhumitsingh856-cyber/output/snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bhumitsingh856-cyber/bhumitsingh856-cyber/output/snake.svg" />
+</picture>
 </div>
 
----
+
+<p align="center">
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,21&height=2&section=divider&animation=twinkling" width="100%"/>
+</p>
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,50:dc2626,100:450a0a&height=120&section=footer" width="100%"/>
