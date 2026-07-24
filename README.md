@@ -89,7 +89,7 @@ const bhumit: Developer = {
 
 **Languages**
 
-|  |  |  |  |
+| JS | TS | PY | JAVA |
 |:---:|:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"/><br> | <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48"/><br> | <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/><br> | <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48"/><br> |
 
