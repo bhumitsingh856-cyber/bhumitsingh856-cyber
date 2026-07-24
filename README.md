@@ -1,10 +1,10 @@
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:059669,100:000000&height=2&section=divider&animation=twinkling" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:14532d,100:000000&height=220&section=header&text=Bhumit%20Singh&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20Agents%20%C2%B7%20AI-ML&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f5e0c3,100:1c1917&height=2&section=divider&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5e0c3,50:78716c,100:1c1917&height=220&section=header&text=Bhumit%20Singh&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20Agents%20%C2%B7%20AI-ML&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
  
 <a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=650&lines=Building+multi-agent+systems+with+LangGraph;RAG+pipelines+%2B+LLM+orchestration;Full-stack+from+data+layer+to+UI;Available+for+Freelance+%C2%B7+Internships+%C2%B7+Collabs" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=a7f3d0&center=true&vCenter=true&width=650&lines=Building+multi-agent+systems+with+LangGraph;RAG+pipelines+%2B+LLM+orchestration;Full-stack+from+data+layer+to+UI;Available+for+Freelance+%C2%B7+Internships+%C2%B7+Collabs" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -89,7 +89,7 @@ const bhumit: Developer = {
 
 **Languages**
 
-| JS | TS | PY | JAVA |
+| Js | Ts | Py | Java |
 |:---:|:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"/><br> | <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48"/><br> | <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/><br> | <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48"/><br> |
 
@@ -221,7 +221,7 @@ const bhumit: Developer = {
 | Feature       | Detail                                           |
 | ------------- | ------------------------------------------------ |
 | ⚡ Real-time  | Live messaging & online status via WebSockets    |
-| 🎨 AI tools   | Inline text and image generation inside the feed |
+| 🎨 AI tools   |  Text and image generation inside AI chat |
 | 📱 Responsive | Seamless across all device sizes                 |
 
 [View Live →](https://orbit-seven-pink.vercel.app/)
