@@ -11,8 +11,8 @@
 
 <p>
   <a href="https://porfolio-v2-client.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-porfolio--v2--client.vercel.app-7c3aed?style=for-the-badge&labelColor=0d1117" />
-  </a>
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-View_My_Work-0066ff?style=for-the-badge&labelColor=0d1117" />
+</a>
 </p>
 <p>
   <a href="https://github.com/bhumitsingh856-cyber">
