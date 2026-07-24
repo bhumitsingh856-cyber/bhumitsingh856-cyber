@@ -169,6 +169,26 @@ const bhumit: Developer = {
 </details>
 
 ---
+<details>
+<summary><b>⚡ GenUI &nbsp;·&nbsp; Prompt → Working React App</b> &nbsp;<code>April 2026</code></summary>
+<br>
+
+> Describe a React app in plain English — GenUI scaffolds multiple files and components, previews it live in the browser, and hands you a downloadable working project.
+
+**Stack:** `Next.js` `LangChain` `Fireworks AI · Deepseek` `Groq`
+
+| Feature     | Detail                                                           |
+| ----------- | ---------------------------------------------------------------- |
+| 🖊️ Editor   | Built-in code editor with live browser preview                   |
+| 🔧 Magic-fix | Error-correction — generated code runs without manual edits |
+| 📦 Export   | One-click download and project sharing                           |
+| 🤖 UI Assistant   | Chat with AI to Update Components                          |
+
+[View Live →](https://gen-ui-seven-black.vercel.app/)
+
+</details>
+
+---
 
 <details>
 <summary><b>🌌 Orion Studio AI &nbsp;·&nbsp; Enterprise Multimodal AI Workspace</b> &nbsp;<code>Feb 2026</code></summary>
@@ -176,7 +196,7 @@ const bhumit: Developer = {
 
 > A single-interface AI platform unifying **web search, image generation, image analysis, and file interaction** — no context loss, no tab-switching.
 
-**Stack:** `Next.js` `LangChain JS` `Pinecone` `MongoDB`
+**Stack:** `Next.js` `LangChain` `Pinecone` `MongoDB` `Clerk` 
 
 | Feature      | Detail                                             |
 | ------------ | -------------------------------------------------- |
@@ -187,26 +207,6 @@ const bhumit: Developer = {
 [View Live →](https://orion-studio-sigma.vercel.app/)
 
 </details>
-
----
-<details>
-<summary><b>⚡ GenUI &nbsp;·&nbsp; Prompt → Working React App</b> &nbsp;<code>April 2026</code></summary>
-<br>
-
-> Describe a React app in plain English — GenUI scaffolds multiple files and components, previews it live in the browser, and hands you a downloadable working project.
-
-**Stack:** `Next.js` `LangChain` `Fireworks AI · Deepseek` `Groq · Kimi 2`
-
-| Feature     | Detail                                                           |
-| ----------- | ---------------------------------------------------------------- |
-| 🖊️ Editor   | Built-in code editor with live browser preview                   |
-| 🔧 Self-fix | Auto error-correction — generated code runs without manual edits |
-| 📦 Export   | One-click download and project sharing                           |
-
-[View Live →](https://gen-ui-seven-black.vercel.app/)
-
-</details>
-
 
 ---
 
@@ -235,7 +235,7 @@ const bhumit: Developer = {
 <br/><br/>
 
 
-<!--
+ 
 # 🧩 LeetCode
 
 <div align="center">
@@ -245,8 +245,10 @@ const bhumit: Developer = {
 <a href="https://leetcode.com/bhumit19/">
 <img src="https://img.shields.io/badge/Visit%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-</div>
--->
+</div> 
+
+---
+
 # 📊 GitHub Stats
 
 <div align="center">
