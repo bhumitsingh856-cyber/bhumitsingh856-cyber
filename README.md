@@ -36,7 +36,7 @@
 # `whoami`
 
 ```ts
-const bhumit: Developer = {
+const Bhumit: Developer = {
   degree: "B.Tech — CSE (AI & ML) @ IPS Academy, Indore",
   location: "Indore, India 📍",
   focus: ["Multi-Agent Systems", "RAG Pipelines", "Full-Stack Web Apps"],
@@ -271,7 +271,5 @@ const bhumit: Developer = {
 <p align="center">
  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,21&height=2&section=divider&animation=twinkling" width="100%"/>
 </p>
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,50:dc2626,100:450a0a&height=120&section=footer" width="100%"/>
